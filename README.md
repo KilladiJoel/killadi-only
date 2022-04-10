@@ -10,7 +10,7 @@
 
 
 # deploy to railway
-[![deploy on railway](https://railway.app/button.svg)](https://railway.app/new/template/t4u_ig?referralcode=kcwirg)
+[![deploy on railway](https://railway.app/button.svg)](https://railway.app/new/template/t4u_ig?JoelKilladi=kcwirg)
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 
